@@ -1,0 +1,13 @@
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.Form1.resources
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.Properties.Resources.resources
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.csproj.GenerateResource.Cache
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\bin\Debug\tp2_Base_de_Datos.exe
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\bin\Debug\tp2_Base_de_Datos.pdb
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.exe
+E:\Ferchabbita\Escritorio\Isft\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.pdb
+D:\Backup\ISFT 172\2do\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.csprojAssemblyReference.cache
+D:\Backup\ISFT 172\2do\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.Form1.resources
+D:\Backup\ISFT 172\2do\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.Properties.Resources.resources
+D:\Backup\ISFT 172\2do\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.csproj.GenerateResource.cache
+D:\Backup\ISFT 172\2do\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.csproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\2do\Base de Datos\tp2_Base_de_Datos\tp2_Base_de_Datos\obj\x86\Debug\tp2_Base_de_Datos.exe
